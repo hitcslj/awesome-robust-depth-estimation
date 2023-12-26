@@ -1,0 +1,3 @@
+1. Put the bibtex in `awesome-robust-depth-estimation/citations/<YOUR-PROJECT>.txt`.
+2. Modify the `README.md` and follow the format TITLE, AUTHOR, CONFERENCE YEAR | OPTIONAL LINK | BIBTEX. For example:
+- [Robust Monocular Depth Estimation under Challenging Conditions](https://md4all.github.io), Gasperini et al., ICCV 2023 | [github](https://github.com/md4all/md4all) | [bibtext](./citations/md4all.txt) 
