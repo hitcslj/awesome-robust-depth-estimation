@@ -23,6 +23,7 @@ A curated list of awesome robust depth estimation papers, inspired by [awesome-N
 <summary>monocular</summary>
 
 - [Robust Monocular Depth Estimation under Challenging Conditions](https://md4all.github.io), Gasperini et al., ICCV 2023 | [github](https://github.com/md4all/md4all) | [bibtext](./citations/md4all.txt) 
+- [Self-supervised Monocular Depth Estimation: Let's Talk About The Weather](https://openaccess.thecvf.com/content/ICCV2023/html/Saunders_Self-supervised_Monocular_Depth_Estimation_Lets_Talk_About_The_Weather_ICCV_2023_paper.html), Kieran Saunders et al., ICCV 2023 | [github](https://github.com/kieran514/robustdepth) | [bibtext](./citations/Robust-Depth.txt)
 
 </details>
 
