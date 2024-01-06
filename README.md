@@ -24,6 +24,8 @@ A curated list of awesome robust depth estimation papers, inspired by [awesome-N
 
 - [Robust Monocular Depth Estimation under Challenging Conditions](https://md4all.github.io), Gasperini et al., ICCV 2023 | [github](https://github.com/md4all/md4all) | [bibtext](./citations/md4all.txt) 
 - [Self-supervised Monocular Depth Estimation: Let's Talk About The Weather](https://openaccess.thecvf.com/content/ICCV2023/html/Saunders_Self-supervised_Monocular_Depth_Estimation_Lets_Talk_About_The_Weather_ICCV_2023_paper.html), Kieran Saunders et al., ICCV 2023 | [github](https://github.com/kieran514/robustdepth) | [bibtext](./citations/Robust-Depth.txt)
+- [ZoeDepth: Combining relative and metric depth](https://arxiv.org/abs/2302.12288), Bhat et al., arXiv 2023 | [github](https://github.com/isl-org/ZoeDepth) | [bibtext](./citations/zoedepth.txt) 
+- [Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image](https://arxiv.org/abs/2307.10984), Yin et al., ICCV 2023 | [github](https://github.com/YvanYin/Metric3D) | [bibtext](./citations/metric3d.txt) 
 
 </details>
 
@@ -34,6 +36,12 @@ A curated list of awesome robust depth estimation papers, inspired by [awesome-N
 
 ## Talks
 - TODO
+
+## Challenge
+- [ICRA 2024], [The RoboDrive Challenge Track4 Robust Depth Estimation](https://robodrive-24.github.io/)
+- [第二届粤港澳大湾区(黄埔)国际算法算例大赛], [跨场景单目深度估计](http://123.138.24.155:30080/org/pazhoulab/competition/area/64a76cdb0890cb0bf38b0c57/content)
+- [ICRA 2023], [The RoboDepth Challenge](https://robodepth.github.io/)
+
 
 
 ## Implementations

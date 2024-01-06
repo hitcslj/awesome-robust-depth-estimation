@@ -1,0 +1,8 @@
+@misc{bhat2023zoedepth,
+      title={ZoeDepth: Zero-shot Transfer by Combining Relative and Metric Depth}, 
+      author={Shariq Farooq Bhat and Reiner Birkl and Diana Wofk and Peter Wonka and Matthias Müller},
+      year={2023},
+      eprint={2302.12288},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
