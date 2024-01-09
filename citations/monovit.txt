@@ -1,0 +1,6 @@
+@inproceedings{monovit,
+  title={MonoViT: Self-Supervised Monocular Depth Estimation with a Vision Transformer},
+  author={Zhao, Chaoqiang and Zhang, Youmin and Poggi, Matteo and Tosi, Fabio and Guo, Xianda and Zhu, Zheng and Huang, Guan and Tang, Yang and Mattoccia, Stefano},
+  booktitle={International Conference on 3D Vision},
+  year={2022}
+}
