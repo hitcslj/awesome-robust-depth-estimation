@@ -1,0 +1,15 @@
+@InProceedings{pmlr-v205-vankadari23a,
+  title = 	 {When the Sun Goes Down: Repairing Photometric Losses for All-Day Depth Estimation},
+  author =       {Vankadari, Madhu and Golodetz, Stuart and Garg, Sourav and Shin, Sangyun and Markham, Andrew and Trigoni, Niki},
+  booktitle = 	 {Proceedings of The 6th Conference on Robot Learning},
+  pages = 	 {1992--2003},
+  year = 	 {2023},
+  editor = 	 {Liu, Karen and Kulic, Dana and Ichnowski, Jeff},
+  volume = 	 {205},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {14--18 Dec},
+  publisher =    {PMLR},
+  pdf = 	 {https://proceedings.mlr.press/v205/vankadari23a/vankadari23a.pdf},
+  url = 	 {https://proceedings.mlr.press/v205/vankadari23a.html},
+  abstract = 	 {Self-supervised deep learning methods for joint depth and ego-motion estimation can yield accurate trajectories without needing ground-truth training data. However, as they typically use photometric losses, their performance can degrade significantly when the assumptions these losses make (e.g. temporal illumination consistency, a static scene, and the absence of noise and occlusions) are violated. This limits their use for e.g. nighttime sequences, which tend to contain many point light sources (including on dynamic objects) and low signal-to-noise ratio (SNR) in darker image regions. In this paper, we show how to use a combination of three techniques to allow the existing photometric losses to work for both day and nighttime images. First, we introduce a per-pixel neural intensity transformation to compensate for the light changes that occur between successive frames. Second, we predict a per-pixel residual flow map that we use to correct the reprojection correspondences induced by the estimated ego-motion and depth from the networks. And third, we denoise the training images to improve the robustness and accuracy of our approach. These changes allow us to train a single model for both day and nighttime images without needing separate encoders or extra feature networks like existing methods. We perform extensive experiments and ablation studies on the challenging Oxford RobotCar dataset to demonstrate the efficacy of our approach for both day and nighttime sequences.}
+}
