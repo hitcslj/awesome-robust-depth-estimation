@@ -1,0 +1,7 @@
+@inproceedings{wang2021regularizing,
+  title={Regularizing nighttime weirdness: Efficient self-supervised monocular depth estimation in the dark},
+  author={Wang, Kun and Zhang, Zhenyu and Yan, Zhiqiang and Li, Xiang and Xu, Baobei and Li, Jun and Yang, Jian},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={16055--16064},
+  year={2021}
+}
