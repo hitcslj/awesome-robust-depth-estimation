@@ -1,0 +1,6 @@
+@InProceedings{radar:depth:20,
+   author = {Lin, Juan-Ting and Dai, Dengxin and {Van Gool}, Luc},
+   title = {Depth Estimation from Monocular Images and Sparse Radar Data},
+   booktitle = {International Conference on Intelligent Robots and Systems (IROS)},
+   year = {2020}
+}
