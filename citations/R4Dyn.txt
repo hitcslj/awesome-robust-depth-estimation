@@ -1,0 +1,10 @@
+@INPROCEEDINGS{9665968,
+  author={Gasperini, Stefano and Koch, Patrick and Dallabetta, Vinzenz and Navab, Nassir and Busam, Benjamin and Tombari, Federico},
+  booktitle={2021 International Conference on 3D Vision (3DV)}, 
+  title={R4Dyn: Exploring Radar for Self-Supervised Monocular Depth Estimation of Dynamic Scenes}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={751-760},
+  doi={10.1109/3DV53792.2021.00084}
+  }
