@@ -1,0 +1,8 @@
+@InProceedings{Wang_2021_ICCV,
+    author    = {Wang, Kun and Zhang, Zhenyu and Yan, Zhiqiang and Li, Xiang and Xu, Baobei and Li, Jun and Yang, Jian},
+    title     = {Regularizing Nighttime Weirdness: Efficient Self-Supervised Monocular Depth Estimation in the Dark},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2021},
+    pages     = {16055-16064}
+}
