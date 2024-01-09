@@ -27,6 +27,7 @@ A curated list of awesome robust depth estimation papers, inspired by [awesome-N
 - [ZoeDepth: Combining relative and metric depth](https://arxiv.org/abs/2302.12288), Bhat et al., arXiv 2023 | [github](https://github.com/isl-org/ZoeDepth) | [bibtext](./citations/zoedepth.txt) 
 - [Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image](https://arxiv.org/abs/2307.10984), Yin et al., ICCV 2023 | [github](https://github.com/YvanYin/Metric3D) | [bibtext](./citations/metric3d.txt) 
 - [When the Sun Goes Down: Repairing Photometric Losses for All-Day Depth Estimation](https://proceedings.mlr.press/v205/vankadari23a.html), Vankadari et al., CoRL 2022 | [bibtext](./citations/WSGD.txt)
+- [MonoViT: Self-Supervised Monocular Depth Estimation with a Vision Transformer](https://arxiv.org/abs/2208.03543), Zhao et al., 3DV 2022 | [github](https://github.com/zxcqlf/MonoViT) | [bibtext](./citations/monovit.txt)
 - [Regularizing Nighttime Weirdness: Efficient Self-Supervised Monocular Depth Estimation in the Dark](https://openaccess.thecvf.com/content/ICCV2021/html/Wang_Regularizing_Nighttime_Weirdness_Efficient_Self-Supervised_Monocular_Depth_Estimation_in_the_ICCV_2021_paper.html), Wang et al., ICCV 2021 | [github](https://github.com/w2kun/RNW) | [bibtext](./citations/RNW.txt)
 
 </details>
