@@ -1,0 +1,10 @@
+@article{zhao2022unsupervised,
+  title={Unsupervised monocular depth estimation in highly complex environments},
+  author={Zhao, Chaoqiang and Tang, Yang and Sun, Qiyu},
+  journal={IEEE Transactions on Emerging Topics in Computational Intelligence},
+  volume={6},
+  number={5},
+  pages={1237--1246},
+  year={2022},
+  publisher={IEEE}
+}

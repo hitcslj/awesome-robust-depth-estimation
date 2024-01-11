@@ -1,0 +1,7 @@
+@inproceedings{shin2023deep,
+  title={Deep Depth Estimation From Thermal Image},
+  author={Shin, Ukcheol and Park, Jinsun and Kweon, In So},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={1043--1053},
+  year={2023}
+}
