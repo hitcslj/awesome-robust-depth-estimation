@@ -39,7 +39,7 @@ A curated list of awesome robust depth estimation papers, inspired by [awesome-N
 
 
 ## Benchmarks and Datasets
-- TODO
+- [Towards Robust Monocular Depth Estimation: A New Baseline and Benchmark](https://link.springer.com/article/10.1007/s11263-023-01979-4), Ke et al., IJCV 2024| [github](https://github.com/KexianHust/Robust-MonoDepth) | [bibtext](./citations/MDE_branchmark_2024IJCV.txt)
 
 
 ## Talks
