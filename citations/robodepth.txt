@@ -1,0 +1,6 @@
+@article{kong2023robodepth,
+  title={Robodepth: Robust out-of-distribution depth estimation under corruptions},
+  author={Kong, Lingdong and Xie, Shaoyuan and Hu, Hanjiang and Ng, Lai Xing and Cottereau, Benoit R and Ooi, Wei Tsang},
+  journal={arXiv preprint arXiv:2310.15171},
+  year={2023}
+}

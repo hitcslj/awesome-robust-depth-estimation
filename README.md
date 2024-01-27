@@ -32,8 +32,9 @@ A curated list of awesome robust depth estimation papers, inspired by [awesome-N
 - [ZoeDepth: Combining relative and metric depth](https://arxiv.org/abs/2302.12288), Bhat et al., arXiv 2023 | [github](https://github.com/isl-org/ZoeDepth) | [bibtext](./citations/zoedepth.txt) 
 - [Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image](https://arxiv.org/abs/2307.10984), Yin et al., ICCV 2023 | [github](https://github.com/YvanYin/Metric3D) | [bibtext](./citations/metric3d.txt)
 - [Deep Depth Estimation From Thermal Image](https://openaccess.thecvf.com/content/CVPR2023/html/Shin_Deep_Depth_Estimation_From_Thermal_Image_CVPR_2023_paper.html), Shin et al., CVPR 2023 | [github](https://github.com/UkcheolShin/MS2-MultiSpectralStereoDataset) | [bibtext](./citations/DET.txt)
-- [Robust Monocular Depth Estimation under Challenging Conditions](https://arxiv.org/abs/2308.09711), Gasperini et al., ICCV 2023 | [github](https://github.com/md4all/md4all) | [bibtext](./citations/md4all.txt) 
 - [Self-supervised Monocular Depth Estimation: Let's Talk About The Weather](https://arxiv.org/abs/2307.08357), Kieran Saunders et al., ICCV 2023 | [github](https://github.com/kieran514/robustdepth) | [bibtext](./citations/Robust-Depth.txt)
+- [Robust Monocular Depth Estimation under Challenging Conditions](https://arxiv.org/abs/2308.09711), Gasperini et al., ICCV 2023 | [github](https://github.com/md4all/md4all) | [bibtext](./citations/md4all.txt) 
+- [RoboDepth: Robust Out-of-Distribution Depth Estimation under Corruptions](https://arxiv.org/abs/2310.15171), Kong et al., NeurIPS 2023 | [github](https://github.com/ldkong1205/RoboDepth) | [bibtext](./citations/robodepth.txt) 
 - [Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data](https://arxiv.org/abs/2401.10891), Yang et al., arxiv 2024 | [github](https://github.com/LiheYoung/Depth-Anything) | [bibtext](./citations/depthanything.txt)
 
 </details>
