@@ -1,6 +1,6 @@
-@article{kong2023robodepth,
-  title={Robodepth: Robust out-of-distribution depth estimation under corruptions},
-  author={Kong, Lingdong and Xie, Shaoyuan and Hu, Hanjiang and Ng, Lai Xing and Cottereau, Benoit R and Ooi, Wei Tsang},
-  journal={arXiv preprint arXiv:2310.15171},
-  year={2023}
+@inproceedings{kong2023robodepth,
+    title = {RoboDepth: Robust Out-of-Distribution Depth Estimation under Corruptions},
+    author = {Lingdong Kong and Shaoyuan Xie and Hanjiang Hu and Lai Xing Ng and Benoit R. Cottereau and Wei Tsang Ooi},
+    booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
+    year = {2023},
 }
