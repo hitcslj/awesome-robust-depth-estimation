@@ -20,7 +20,7 @@ A curated list of awesome robust depth estimation papers, inspired by [awesome-N
 ## Papers
 
 <details open>
-<summary>monocular</summary>
+<summary>robust</summary>
 
 - [Depth Estimation from Monocular Images and Sparse Radar Data](https://arxiv.org/abs/2010.00058), Lin et al., IROS 2020 | [github](https://github.com/brade31919/radar_depth) | [bibtext](./citations/deisr.txt)
 - [Unsupervised monocular depth estimation for night-time images using adversarial domain feature adaptation](https://arxiv.org/abs/2010.01402), Vankadari et al., ECCV 2020 | [bibtext](./citations/ADFA.txt)
@@ -35,8 +35,6 @@ A curated list of awesome robust depth estimation papers, inspired by [awesome-N
 - [Self-supervised Monocular Depth Estimation: Let's Talk About The Weather](https://arxiv.org/abs/2307.08357), Kieran Saunders et al., ICCV 2023 | [github](https://github.com/kieran514/robustdepth) | [bibtext](./citations/Robust-Depth.txt)
 - [Robust Monocular Depth Estimation under Challenging Conditions](https://arxiv.org/abs/2308.09711), Gasperini et al., ICCV 2023 | [github](https://github.com/md4all/md4all) | [bibtext](./citations/md4all.txt) 
 - [RoboDepth: Robust Out-of-Distribution Depth Estimation under Corruptions](https://arxiv.org/abs/2310.15171), Kong et al., NeurIPS 2023 | [github](https://github.com/ldkong1205/RoboDepth) | [bibtext](./citations/robodepth.txt) 
-- [Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation](https://arxiv.org/abs/2312.02145), Ke et al., arxiv 2023 | [github](https://github.com/prs-eth/marigold) | [bibtext](./citations/marigold.txt) 
-- [Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data](https://arxiv.org/abs/2401.10891), Yang et al., arxiv 2024 | [github](https://github.com/LiheYoung/Depth-Anything) | [bibtext](./citations/depthanything.txt)
 
 </details>
 <details>
