@@ -39,7 +39,13 @@ A curated list of awesome robust depth estimation papers, inspired by [awesome-N
 - [Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data](https://arxiv.org/abs/2401.10891), Yang et al., arxiv 2024 | [github](https://github.com/LiheYoung/Depth-Anything) | [bibtext](./citations/depthanything.txt)
 
 </details>
+<details>
+<summary>generalization</summary>
 
+- [Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation](https://arxiv.org/abs/2312.02145), Ke et al., arxiv 2023 | [github](https://github.com/prs-eth/marigold) | [bibtext](./citations/marigold.txt) 
+- [Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data](https://arxiv.org/abs/2401.10891), Yang et al., arxiv 2024 | [github](https://github.com/LiheYoung/Depth-Anything) | [bibtext](./citations/depthanything.txt)
+
+</details>
 
 ## Benchmarks and Datasets
 - [Towards Robust Monocular Depth Estimation: A New Baseline and Benchmark](https://link.springer.com/article/10.1007/s11263-023-01979-4), Ke et al., IJCV 2024| [github](https://github.com/KexianHust/Robust-MonoDepth) | [bibtext](./citations/MDE_branchmark_2024IJCV.txt)
