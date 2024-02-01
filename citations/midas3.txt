@@ -1,0 +1,6 @@
+@article{birkl2023midas,
+      title={MiDaS v3.1 -- A Model Zoo for Robust Monocular Relative Depth Estimation},
+      author={Reiner Birkl and Diana Wofk and Matthias M{\"u}ller},
+      journal={arXiv preprint arXiv:2307.14460},
+      year={2023}
+}
