@@ -54,9 +54,9 @@ A curated list of awesome robust depth estimation papers, inspired by [awesome-N
 - TODO
 
 ## Challenge
-- [ICRA 2024], [The RoboDrive Challenge Track4 Robust Depth Estimation](https://robodrive-24.github.io/) | [github](https://github.com/robodrive-24/toolkit)
-- [第二届粤港澳大湾区(黄埔)国际算法算例大赛], [跨场景单目深度估计](http://123.138.24.155:30080/org/pazhoulab/competition/area/64a76cdb0890cb0bf38b0c57/content)
 - [ICRA 2023], [The RoboDepth Challenge](https://robodepth.github.io/)
+- [第二届粤港澳大湾区(黄埔)国际算法算例大赛], [跨场景单目深度估计](http://123.138.24.155:30080/org/pazhoulab/competition/area/64a76cdb0890cb0bf38b0c57/content)
+- [ICRA 2024], [The RoboDrive Challenge Track4 Robust Depth Estimation](https://robodrive-24.github.io/) | [github](https://github.com/robodrive-24/toolkit)
 
 
 
