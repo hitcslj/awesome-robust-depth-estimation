@@ -1,0 +1,7 @@
+@inproceedings{spencer2020defeat,
+  title={Defeat-net: General monocular depth via simultaneous unsupervised representation learning},
+  author={Spencer, Jaime and Bowden, Richard and Hadfield, Simon},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={14402--14413},
+  year={2020}
+}
