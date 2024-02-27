@@ -22,9 +22,11 @@ A curated list of awesome robust depth estimation papers, inspired by [awesome-N
 <details open>
 <summary>robust</summary>
 
+- [Defeat-net: General monocular depth via simultaneous unsupervised representation learning](https://arxiv.org/abs/2003.13446), Spencer et al., CVPR 2020 | [github](https://github.com/jspenmar/DeFeat-Net) | [bibtext](./citations/DeFeatNet.txt)
 - [Depth Estimation from Monocular Images and Sparse Radar Data](https://arxiv.org/abs/2010.00058), Lin et al., IROS 2020 | [github](https://github.com/brade31919/radar_depth) | [bibtext](./citations/deisr.txt)
 - [Unsupervised monocular depth estimation for night-time images using adversarial domain feature adaptation](https://arxiv.org/abs/2010.01402), Vankadari et al., ECCV 2020 | [bibtext](./citations/ADFA.txt)
 - [Regularizing Nighttime Weirdness: Efficient Self-Supervised Monocular Depth Estimation in the Dark](https://arxiv.org/abs/2108.03830), Wang et al., ICCV 2021 | [github](https://github.com/w2kun/RNW) | [bibtext](./citations/RNW.txt)
+- [Self-supervised Monocular Depth Estimation for All Day Images using Domain Separation](https://arxiv.org/abs/2108.07628), Lin et al., ICCV 2021 | [github](https://github.com/LINA-lln/ADDS-DepthNet) | [bibtext](./citations/ADDS.txt)
 - [Unsupervised monocular depth estimation in highly complex environments](https://arxiv.org/abs/2107.13137), Zhao et al., ITETCI 2022 | [bibtext](./citations/ITDFA.txt)
 - [R4Dyn: Exploring Radar for Self-Supervised Monocular Depth Estimation of Dynamic Scenes](https://arxiv.org/abs/2108.04814), Gasperini et al., 3DV 2021 | [bibtext](./citations/R4Dyn.txt)
 - [When the Sun Goes Down: Repairing Photometric Losses for All-Day Depth Estimation](https://arxiv.org/abs/2206.13850), Vankadari et al., CoRL 2022 | [bibtext](./citations/WSGD.txt)

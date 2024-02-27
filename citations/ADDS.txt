@@ -1,0 +1,7 @@
+@inproceedings{liu2021self,
+  title={Self-supervised Monocular Depth Estimation for All Day Images using Domain Separation},
+  author={Liu, Lina and Song, Xibin and Wang, Mengmeng and Liu, Yong and Zhang, Liangjun},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={12737--12746},
+  year={2021}
+}
