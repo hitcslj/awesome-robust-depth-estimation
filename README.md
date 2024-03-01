@@ -30,6 +30,7 @@ A curated list of awesome robust depth estimation papers, inspired by [awesome-N
 - [Unsupervised monocular depth estimation in highly complex environments](https://arxiv.org/abs/2107.13137), Zhao et al., ITETCI 2022 | [bibtext](./citations/ITDFA.txt)
 - [R4Dyn: Exploring Radar for Self-Supervised Monocular Depth Estimation of Dynamic Scenes](https://arxiv.org/abs/2108.04814), Gasperini et al., 3DV 2021 | [bibtext](./citations/R4Dyn.txt)
 - [When the Sun Goes Down: Repairing Photometric Losses for All-Day Depth Estimation](https://arxiv.org/abs/2206.13850), Vankadari et al., CoRL 2022 | [bibtext](./citations/WSGD.txt)
+- [Towards Scale-Aware, Robust, and Generalizable Unsupervised Monocular Depth Estimation by Integrating IMU Motion Dynamics](https://arxiv.org/abs/2207.04680), Zhang et al., ECCV 2022 | [github](https://github.com/SenZHANG-GitHub/ekf-imu-depth) | [bibtext](./citations/ekf-imu-depth.txt)
 - [MonoViT: Self-Supervised Monocular Depth Estimation with a Vision Transformer](https://arxiv.org/abs/2208.03543), Zhao et al., 3DV 2022 | [github](https://github.com/zxcqlf/MonoViT) | [bibtext](./citations/monovit.txt)
 - [ZoeDepth: Combining relative and metric depth](https://arxiv.org/abs/2302.12288), Bhat et al., arXiv 2023 | [github](https://github.com/isl-org/ZoeDepth) | [bibtext](./citations/zoedepth.txt) 
 - [Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image](https://arxiv.org/abs/2307.10984), Yin et al., ICCV 2023 | [github](https://github.com/YvanYin/Metric3D) | [bibtext](./citations/metric3d.txt)

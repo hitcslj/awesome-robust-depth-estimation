@@ -1,0 +1,8 @@
+@inproceedings{zhang2022towards,
+  title={Towards scale-aware, robust, and generalizable unsupervised monocular depth estimation by integrating IMU motion dynamics},
+  author={Zhang, Sen and Zhang, Jing and Tao, Dacheng},
+  booktitle={European Conference on Computer Vision},
+  pages={143--160},
+  year={2022},
+  organization={Springer}
+}
