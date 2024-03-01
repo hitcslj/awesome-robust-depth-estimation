@@ -1,0 +1,6 @@
+@article{stan2023ldm3d,
+  title={LDM3D: Latent Diffusion Model for 3D},
+  author={Stan, Gabriela Ben Melech and Wofk, Diana and Fox, Scottie and Redden, Alex and Saxton, Will and Yu, Jean and Aflalo, Estelle and Tseng, Shao-Yen and Nonato, Fabio and Muller, Matthias and others},
+  journal={arXiv preprint arXiv:2305.10853},
+  year={2023}
+}
