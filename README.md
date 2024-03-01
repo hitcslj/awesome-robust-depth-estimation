@@ -1,6 +1,7 @@
 # awesome-robust-depth-estimation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome robust depth estimation papers, inspired by [awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF).
 
+![teaser](assets/teaser.png)
 
 #### [How to submit a pull request?](https://github.com/hitcslj/awesome-robust-depth-estimation/blob/main/how-to-PR.md)
 
