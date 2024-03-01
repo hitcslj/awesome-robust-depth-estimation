@@ -43,8 +43,8 @@ A curated list of awesome robust depth estimation papers, inspired by [awesome-N
 <summary>generalization</summary>
 
 - [Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-shot Cross-dataset Transfer](https://arxiv.org/abs/1907.01341), Ranftl et al., TPAMI 2020 | [github](https://github.com/isl-org/MiDaS) | [bibtext](./citations/midas.txt) 
-- [ZoeDepth: Zero-shot Transfer by Combining Relative and Metric Depth](https://arxiv.org/abs/2302.12288), Bhat et al., arxiv 2023 | [huggingface](https://huggingface.co/Intel/ldm3d) | [bibtext](./citations/zoedepth.txt) 
-- [LDM3D: Latent Diffusion Model for 3D](https://arxiv.org/abs/2305.10853), Stan et al., CVPRW 2023 | [github](https://github.com/isl-org/ZoeDepth) | [bibtext](./citations/ldm3d.txt) 
+- [ZoeDepth: Zero-shot Transfer by Combining Relative and Metric Depth](https://arxiv.org/abs/2302.12288), Bhat et al., arxiv 2023 | [github](https://github.com/isl-org/ZoeDepth) | [bibtext](./citations/zoedepth.txt) 
+- [LDM3D: Latent Diffusion Model for 3D](https://arxiv.org/abs/2305.10853), Stan et al., CVPRW 2023  | [huggingface](https://huggingface.co/Intel/ldm3d) | [bibtext](./citations/ldm3d.txt) 
 - [Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image](https://arxiv.org/abs/2307.10984), Yin et al., ICCV 2023 | [github](https://github.com/YvanYin/Metric3D) | [bibtext](./citations/metric3d.txt)
 - [MiDaS v3.1 -- A Model Zoo for Robust Monocular Relative Depth Estimation](https://arxiv.org/abs/2307.14460), Birkl et al., arxiv 2023 | [github](https://github.com/isl-org/MiDaS) | [bibtext](./citations/midas3.txt)
 - [Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation](https://arxiv.org/abs/2312.02145), Ke et al., arxiv 2023 | [github](https://github.com/prs-eth/marigold) | [bibtext](./citations/marigold.txt) 
