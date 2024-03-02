@@ -1,0 +1,7 @@
+@inproceedings{yin2021learning,
+  title={Learning to recover 3d scene shape from a single image},
+  author={Yin, Wei and Zhang, Jianming and Wang, Oliver and Niklaus, Simon and Mai, Long and Chen, Simon and Shen, Chunhua},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={204--213},
+  year={2021}
+}
