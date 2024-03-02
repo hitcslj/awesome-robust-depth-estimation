@@ -1,0 +1,7 @@
+@inproceedings{guizilini2023towards,
+  title={Towards zero-shot scale-aware monocular depth estimation},
+  author={Guizilini, Vitor and Vasiljevic, Igor and Chen, Dian and Ambruș, Rareș and Gaidon, Adrien},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={9233--9243},
+  year={2023}
+}
