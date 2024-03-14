@@ -37,6 +37,7 @@ A curated list of awesome robust depth estimation papers, inspired by [awesome-N
 - [Self-supervised Monocular Depth Estimation: Let's Talk About The Weather](https://arxiv.org/abs/2307.08357), Kieran Saunders et al., ICCV 2023 | [github](https://github.com/kieran514/robustdepth) | [bibtext](./citations/Robust-Depth.txt)
 - [Robust Monocular Depth Estimation under Challenging Conditions](https://arxiv.org/abs/2308.09711), Gasperini et al., ICCV 2023 | [github](https://github.com/md4all/md4all) | [bibtext](./citations/md4all.txt) 
 - [RoboDepth: Robust Out-of-Distribution Depth Estimation under Corruptions](https://arxiv.org/abs/2310.15171), Kong et al., NeurIPS 2023 | [github](https://github.com/ldkong1205/RoboDepth) | [bibtext](./citations/robodepth.txt) 
+- [Stealing Stable Diffusion Prior for Robust Monocular Depth Estimation](https://arxiv.org/abs/2403.05056), Mao et al., arxiv 2024 | [github](https://github.com/hitcslj/SSD) | [bibtext](./citations/ssd.txt) 
 
 </details>
 

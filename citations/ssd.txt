@@ -1,0 +1,6 @@
+@article{mao2024stealing,
+  title={Stealing Stable Diffusion Prior for Robust Monocular Depth Estimation},
+  author={Mao, Yifan and Liu, Jian and Liu, Xianming},
+  journal={arXiv preprint arXiv:2403.05056},
+  year={2024}
+}
