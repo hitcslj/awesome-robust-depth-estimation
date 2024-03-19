@@ -1,0 +1,8 @@
+@misc{saxena2023zeroshot,
+      title={Zero-Shot Metric Depth with a Field-of-View Conditioned Diffusion Model},
+      author={Saurabh Saxena and Junhwa Hur and Charles Herrmann and Deqing Sun and David J. Fleet},
+      year={2023},
+      eprint={2312.13252},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}

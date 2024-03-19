@@ -54,6 +54,7 @@ A curated list of awesome robust depth estimation papers, inspired by [awesome-N
 - [Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image](https://arxiv.org/abs/2307.10984), Yin et al., ICCV 2023 | [github](https://github.com/YvanYin/Metric3D) | [bibtext](./citations/metric3d.txt)
 - [MiDaS v3.1 -- A Model Zoo for Robust Monocular Relative Depth Estimation](https://arxiv.org/abs/2307.14460), Birkl et al., arxiv 2023 | [github](https://github.com/isl-org/MiDaS) | [bibtext](./citations/midas3.txt)
 - [Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation](https://arxiv.org/abs/2312.02145), Ke et al., CVPR 2024 | [github](https://github.com/prs-eth/marigold) | [bibtext](./citations/marigold.txt) 
+- [Zero-Shot Metric Depth with a Field-of-View Conditioned Diffusion Model](https://arxiv.org/abs/2312.13252), Saxena et al., arxiv 2023 | [bibtext](./citations/fvcdm.txt) 
 - [Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data](https://arxiv.org/abs/2401.10891), Yang et al., CVPR 2024 | [github](https://github.com/LiheYoung/Depth-Anything) | [bibtext](./citations/depthanything.txt)
 
 </details>
