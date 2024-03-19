@@ -56,6 +56,9 @@ A curated list of awesome robust depth estimation papers, inspired by [awesome-N
 - [Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation](https://arxiv.org/abs/2312.02145), Ke et al., CVPR 2024 | [github](https://github.com/prs-eth/marigold) | [bibtext](./citations/marigold.txt) 
 - [Zero-Shot Metric Depth with a Field-of-View Conditioned Diffusion Model](https://arxiv.org/abs/2312.13252), Saxena et al., arxiv 2023 | [bibtext](./citations/fvcdm.txt) 
 - [Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data](https://arxiv.org/abs/2401.10891), Yang et al., CVPR 2024 | [github](https://github.com/LiheYoung/Depth-Anything) | [bibtext](./citations/depthanything.txt)
+- [Metric3Dv2: A Versatile Monocular Geometric Foundation Model for Zero-shot Metric Depth and Surface Normal Estimation](), Hu et al., arxiv 2024 | [github](https://github.com/YvanYin/Metric3D) | [bibtext](./citations/metric3dv2.txt)
+- [SM4Depth: Seamless Monocular Metric Depth Estimation across Multiple Cameras and Scenes by One Model](https://arxiv.org/abs/2403.08556), Liu et al., arxiv 2024 | [github](https://github.com/1hao-Liu/SM4Depth) | [bibtext](./citations/sm4depth.txt)
+
 
 </details>
 

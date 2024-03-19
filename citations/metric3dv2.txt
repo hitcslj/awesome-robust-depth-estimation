@@ -1,0 +1,6 @@
+@article{hu2024metric3dv2,
+  title={A Versatile Monocular Geometric Foundation Model for Zero-shot Metric Depth and Surface Normal Estimation},
+  author={Hu, Mu and Yin, Wei, and Zhang, Chi and Cai, Zhipeng and Long, Xiaoxiao and Chen, Hao, and Wang, Kaixuan and Yu, Gang and Shen, Chunhua and Shen, Shaojie},
+  booktitle={arXiv},
+  year={2024}
+}
