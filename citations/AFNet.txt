@@ -1,0 +1,8 @@
+@misc{cheng2024adaptive,
+      title={Adaptive Fusion of Single-View and Multi-View Depth for Autonomous Driving}, 
+      author={JunDa Cheng and Wei Yin and Kaixuan Wang and Xiaozhi Chen and Shijie Wang and Xin Yang},
+      year={2024},
+      eprint={2403.07535},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}

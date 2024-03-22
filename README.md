@@ -39,6 +39,7 @@ A curated list of awesome robust depth estimation papers, inspired by [awesome-N
 - [RoboDepth: Robust Out-of-Distribution Depth Estimation under Corruptions](https://arxiv.org/abs/2310.15171), Kong et al., NeurIPS 2023 | [github](https://github.com/ldkong1205/RoboDepth) | [bibtext](./citations/robodepth.txt) 
 - [WeatherDepth: Curriculum Contrastive Learning for Self-Supervised Depth Estimation under Adverse Weather Conditions](https://arxiv.org/abs/2310.05556), Wang et al., ICRA 2024 | [bibtext](./citations/WeatherDepth.txt)
 - [Stealing Stable Diffusion Prior for Robust Monocular Depth Estimation](https://arxiv.org/abs/2403.05056), Mao et al., arxiv 2024 | [github](https://github.com/hitcslj/SSD) | [bibtext](./citations/ssd.txt) 
+- [Adaptive Fusion of Single-View and Multi-View Depth for Autonomous Driving](https://arxiv.org/abs/2403.07535), Cheng et al., CVPR 2024 | [github](https://github.com/Junda24/AFNet) | [bibtext](./citations/AFNet.txt) 
 
 </details>
 
