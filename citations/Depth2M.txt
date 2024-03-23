@@ -1,0 +1,7 @@
+@inproceedings{costanzino2023iccv,
+    title = {Learning Depth Estimation for Transparent and Mirror Surfaces},
+    author = {Costanzino, Alex and Zama Ramirez, Pierluigi and Poggi, Matteo and Tosi, Fabio and Mattoccia, Stefano and Di Stefano, Luigi},
+    booktitle = {The IEEE International Conference on Computer Vision},
+    note = {ICCV},
+    year = {2023},
+}
