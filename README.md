@@ -113,4 +113,4 @@ A curated list of awesome robust depth estimation papers, inspired by [awesome-N
 awesome robust depth estimation is released under the [MIT license](./LICENSE).
 
 ## Contact
-Primary contact: hitcslj@stu.hit.edu.cn. You can also contact: 1909985972@qq.com.
+Primary contact: hitcslj@stu.hit.edu.cn. You can also contact: maoyf1105@163.com.
