@@ -21,47 +21,73 @@ A curated list of awesome robust depth estimation papers, inspired by [awesome-N
 ## Papers
 
 <details open>
-<summary>robust</summary>
+<summary>darkness & adversial weather robust</summary>
 
 - [Defeat-net: General monocular depth via simultaneous unsupervised representation learning](https://arxiv.org/abs/2003.13446), Spencer et al., CVPR 2020 | [github](https://github.com/jspenmar/DeFeat-Net) | [bibtext](./citations/DeFeatNet.txt)
-- [Depth Estimation from Monocular Images and Sparse Radar Data](https://arxiv.org/abs/2010.00058), Lin et al., IROS 2020 | [github](https://github.com/brade31919/radar_depth) | [bibtext](./citations/deisr.txt)
 - [Unsupervised monocular depth estimation for night-time images using adversarial domain feature adaptation](https://arxiv.org/abs/2010.01402), Vankadari et al., ECCV 2020 | [bibtext](./citations/ADFA.txt)
 - [Regularizing Nighttime Weirdness: Efficient Self-Supervised Monocular Depth Estimation in the Dark](https://arxiv.org/abs/2108.03830), Wang et al., ICCV 2021 | [github](https://github.com/w2kun/RNW) | [bibtext](./citations/RNW.txt)
 - [Self-supervised Monocular Depth Estimation for All Day Images using Domain Separation](https://arxiv.org/abs/2108.07628), Lin et al., ICCV 2021 | [github](https://github.com/LINA-lln/ADDS-DepthNet) | [bibtext](./citations/ADDS.txt)
 - [Unsupervised monocular depth estimation in highly complex environments](https://arxiv.org/abs/2107.13137), Zhao et al., ITETCI 2022 | [bibtext](./citations/ITDFA.txt)
-- [R4Dyn: Exploring Radar for Self-Supervised Monocular Depth Estimation of Dynamic Scenes](https://arxiv.org/abs/2108.04814), Gasperini et al., 3DV 2021 | [bibtext](./citations/R4Dyn.txt)
 - [When the Sun Goes Down: Repairing Photometric Losses for All-Day Depth Estimation](https://arxiv.org/abs/2206.13850), Vankadari et al., CoRL 2022 | [bibtext](./citations/WSGD.txt)
-- [Towards Scale-Aware, Robust, and Generalizable Unsupervised Monocular Depth Estimation by Integrating IMU Motion Dynamics](https://arxiv.org/abs/2207.04680), Zhang et al., ECCV 2022 | [github](https://github.com/SenZHANG-GitHub/ekf-imu-depth) | [bibtext](./citations/ekf-imu-depth.txt)
-- [MonoViT: Self-Supervised Monocular Depth Estimation with a Vision Transformer](https://arxiv.org/abs/2208.03543), Zhao et al., 3DV 2022 | [github](https://github.com/zxcqlf/MonoViT) | [bibtext](./citations/monovit.txt)
-- [Deep Depth Estimation From Thermal Image](https://openaccess.thecvf.com/content/CVPR2023/html/Shin_Deep_Depth_Estimation_From_Thermal_Image_CVPR_2023_paper.html), Shin et al., CVPR 2023 | [github](https://github.com/UkcheolShin/MS2-MultiSpectralStereoDataset) | [bibtext](./citations/DET.txt)
 - [Self-supervised Monocular Depth Estimation: Let's Talk About The Weather](https://arxiv.org/abs/2307.08357), Kieran Saunders et al., ICCV 2023 | [github](https://github.com/kieran514/robustdepth) | [bibtext](./citations/Robust-Depth.txt)
 - [Robust Monocular Depth Estimation under Challenging Conditions](https://arxiv.org/abs/2308.09711), Gasperini et al., ICCV 2023 | [github](https://github.com/md4all/md4all) | [bibtext](./citations/md4all.txt) 
-- [Learning Depth Estimation for Transparent and Mirror Surfaces](https://arxiv.org/abs/2307.15052), Costanzino et al., ICCV 2023 | [github](https://github.com/CVLAB-Unibo/Depth4ToM-code#-learning-depth-estimation-for-transparent-and-mirror-surfaces-iccv-2023-) | [bibtext](./citations/Depth2M.txt)
-- [RoboDepth: Robust Out-of-Distribution Depth Estimation under Corruptions](https://arxiv.org/abs/2310.15171), Kong et al., NeurIPS 2023 | [github](https://github.com/ldkong1205/RoboDepth) | [bibtext](./citations/robodepth.txt) 
 - [WeatherDepth: Curriculum Contrastive Learning for Self-Supervised Depth Estimation under Adverse Weather Conditions](https://arxiv.org/abs/2310.05556), Wang et al., ICRA 2024 | [bibtext](./citations/WeatherDepth.txt)
+- [RoboDepth: Robust Out-of-Distribution Depth Estimation under Corruptions](https://arxiv.org/abs/2310.15171), Kong et al., NeurIPS 2023 | [github](https://github.com/ldkong1205/RoboDepth) | [bibtext](./citations/robodepth.txt) 
 - [Stealing Stable Diffusion Prior for Robust Monocular Depth Estimation](https://arxiv.org/abs/2403.05056), Mao et al., arxiv 2024 | [github](https://github.com/hitcslj/SSD) | [bibtext](./citations/ssd.txt) 
-- [Adaptive Fusion of Single-View and Multi-View Depth for Autonomous Driving](https://arxiv.org/abs/2403.07535), Cheng et al., CVPR 2024 | [github](https://github.com/Junda24/AFNet) | [bibtext](./citations/AFNet.txt) 
+</details>
+
+<details open>
+<summary>multimodality</summary>
+
+- [Depth Estimation from Monocular Images and Sparse Radar Data](https://arxiv.org/abs/2010.00058), Lin et al., IROS 2020 | [github](https://github.com/brade31919/radar_depth) | [bibtext](./citations/deisr.txt)
+- [R4Dyn: Exploring Radar for Self-Supervised Monocular Depth Estimation of Dynamic Scenes](https://arxiv.org/abs/2108.04814), Gasperini et al., 3DV 2021 | [bibtext](./citations/R4Dyn.txt)
+- [Deep Depth Estimation From Thermal Image](https://openaccess.thecvf.com/content/CVPR2023/html/Shin_Deep_Depth_Estimation_From_Thermal_Image_CVPR_2023_paper.html), Shin et al., CVPR 2023 | [github](https://github.com/UkcheolShin/MS2-MultiSpectralStereoDataset) | [bibtext](./citations/DET.txt)
 
 </details>
 
 <details open>
-<summary>generalization</summary>
+<summary>mirror robust</summary>
+
+- [Learning Depth Estimation for Transparent and Mirror Surfaces](https://arxiv.org/abs/2307.15052), Costanzino et al., ICCV 2023 | [github](https://github.com/CVLAB-Unibo/Depth4ToM-code#-learning-depth-estimation-for-transparent-and-mirror-surfaces-iccv-2023-) | [bibtext](./citations/Depth2M.txt)
+
+</details>
+
+<details open>
+<summary>pose robust</summary>
+
+- [Towards Scale-Aware, Robust, and Generalizable Unsupervised Monocular Depth Estimation by Integrating IMU Motion Dynamics](https://arxiv.org/abs/2207.04680), Zhang et al., ECCV 2022 | [github](https://github.com/SenZHANG-GitHub/ekf-imu-depth) | [bibtext](./citations/ekf-imu-depth.txt)
+
+</details>
+
+<details open>
+<summary>robust architecture</summary>
+
+- [Vision Transformers for Dense Prediction](https://arxiv.org/abs/2103.13413), Ranftl et al., ICCV 2021 | [github](https://github.com/isl-org/DPT) | [bibtext](./citations/dpt.txt) 
+- [MonoViT: Self-Supervised Monocular Depth Estimation with a Vision Transformer](https://arxiv.org/abs/2208.03543), Zhao et al., 3DV 2022 | [github](https://github.com/zxcqlf/MonoViT) | [bibtext](./citations/monovit.txt)
+- [LDM3D: Latent Diffusion Model for 3D](https://arxiv.org/abs/2305.10853), Stan et al., CVPRW 2023  | [huggingface](https://huggingface.co/Intel/ldm3d) | [bibtext](./citations/ldm3d.txt) 
+- [Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation](https://arxiv.org/abs/2312.02145), Ke et al., CVPR 2024 | [github](https://github.com/prs-eth/marigold) | [bibtext](./citations/marigold.txt) 
+</details>
+
+<details open>
+<summary>zero-shot depth estimation</summary>
 
 - [Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-shot Cross-dataset Transfer](https://arxiv.org/abs/1907.01341), Ranftl et al., TPAMI 2020 | [github](https://github.com/isl-org/MiDaS) | [bibtext](./citations/midas.txt)
-- [Learning to Recover 3D Scene Shape from a Single Image](https://arxiv.org/abs/2012.09365), Yin et al., CVPR 2021 | [github](https://github.com/aim-uofa/AdelaiDepth) | [bibtext](./citations/LeReS.txt)
-- [Vision Transformers for Dense Prediction](https://arxiv.org/abs/2103.13413), Ranftl et al., ICCV 2021 | [github](https://github.com/isl-org/DPT) | [bibtext](./citations/dpt.txt) 
 - [ZoeDepth: Zero-shot Transfer by Combining Relative and Metric Depth](https://arxiv.org/abs/2302.12288), Bhat et al., arxiv 2023 | [github](https://github.com/isl-org/ZoeDepth) | [bibtext](./citations/zoedepth.txt) 
-- [LDM3D: Latent Diffusion Model for 3D](https://arxiv.org/abs/2305.10853), Stan et al., CVPRW 2023  | [huggingface](https://huggingface.co/Intel/ldm3d) | [bibtext](./citations/ldm3d.txt) 
 - [Towards Zero-Shot Scale-Aware Monocular Depth Estimation](https://arxiv.org/abs/2306.17253), Guizilini et al., ICCV 2023 | [github](https://github.com/tri-ml/vidar) | [bibtext](./citations/zerodepth.txt) 
 - [Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image](https://arxiv.org/abs/2307.10984), Yin et al., ICCV 2023 | [github](https://github.com/YvanYin/Metric3D) | [bibtext](./citations/metric3d.txt)
 - [MiDaS v3.1 -- A Model Zoo for Robust Monocular Relative Depth Estimation](https://arxiv.org/abs/2307.14460), Birkl et al., arxiv 2023 | [github](https://github.com/isl-org/MiDaS) | [bibtext](./citations/midas3.txt)
-- [Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation](https://arxiv.org/abs/2312.02145), Ke et al., CVPR 2024 | [github](https://github.com/prs-eth/marigold) | [bibtext](./citations/marigold.txt) 
--[Zero-Shot Metric Depth with a Field-of-View Conditioned Diffusion Model](https://arxiv.org/abs/2312.13252) Saurabh et al. | [bibtext](./citations/fvcd.txt)
+- [Metric3Dv2: A Versatile Monocular Geometric Foundation Model for Zero-shot Metric Depth and Surface Normal Estimation](), Hu et al., arxiv 2024 | [github](https://github.com/YvanYin/Metric3D) | [bibtext](./citations/metric3dv2.txt)
+- [Zero-Shot Metric Depth with a Field-of-View Conditioned Diffusion Model](https://arxiv.org/abs/2312.13252) Saurabh et al. | [bibtext](./citations/fvcd.txt)
 - [Zero-Shot Metric Depth with a Field-of-View Conditioned Diffusion Model](https://arxiv.org/abs/2312.13252), Saxena et al., arxiv 2023 | [bibtext](./citations/fvcdm.txt) 
 - [Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data](https://arxiv.org/abs/2401.10891), Yang et al., CVPR 2024 | [github](https://github.com/LiheYoung/Depth-Anything) | [bibtext](./citations/depthanything.txt)
-- [Metric3Dv2: A Versatile Monocular Geometric Foundation Model for Zero-shot Metric Depth and Surface Normal Estimation](), Hu et al., arxiv 2024 | [github](https://github.com/YvanYin/Metric3D) | [bibtext](./citations/metric3dv2.txt)
-- [SM4Depth: Seamless Monocular Metric Depth Estimation across Multiple Cameras and Scenes by One Model](https://arxiv.org/abs/2403.08556), Liu et al., arxiv 2024 | [github](https://github.com/1hao-Liu/SM4Depth) | [bibtext](./citations/sm4depth.txt)
+</details>
 
+<details open>
+<summary>cross camera & scene</summary>
+
+- [Learning to Recover 3D Scene Shape from a Single Image](https://arxiv.org/abs/2012.09365), Yin et al., CVPR 2021 | [github](https://github.com/aim-uofa/AdelaiDepth) | [bibtext](./citations/LeReS.txt)
+- [Adaptive Fusion of Single-View and Multi-View Depth for Autonomous Driving](https://arxiv.org/abs/2403.07535), Cheng et al., CVPR 2024 | [github](https://github.com/Junda24/AFNet) | [bibtext](./citations/AFNet.txt) 
+- [SM4Depth: Seamless Monocular Metric Depth Estimation across Multiple Cameras and Scenes by One Model](https://arxiv.org/abs/2403.08556), Liu et al., arxiv 2024 | [github](https://github.com/1hao-Liu/SM4Depth) | [bibtext](./citations/sm4depth.txt)
 
 </details>
 
