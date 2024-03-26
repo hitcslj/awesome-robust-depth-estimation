@@ -1,0 +1,6 @@
+@article{gui2024depthfm,
+  title={DepthFM: Fast Monocular Depth Estimation with Flow Matching},
+  author={Gui, Ming and Fischer, Johannes S and Prestel, Ulrich and Ma, Pingchuan and Kotovenko, Dmytro and Grebenkova, Olga and Baumann, Stefan Andreas and Hu, Vincent Tao and Ommer, Bj{\"o}rn},
+  journal={arXiv preprint arXiv:2403.13788},
+  year={2024}
+}

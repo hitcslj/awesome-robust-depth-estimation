@@ -65,7 +65,6 @@ A curated list of awesome robust depth estimation papers, inspired by [awesome-N
 - [Vision Transformers for Dense Prediction](https://arxiv.org/abs/2103.13413), Ranftl et al., ICCV 2021 | [github](https://github.com/isl-org/DPT) | [bibtext](./citations/dpt.txt) 
 - [MonoViT: Self-Supervised Monocular Depth Estimation with a Vision Transformer](https://arxiv.org/abs/2208.03543), Zhao et al., 3DV 2022 | [github](https://github.com/zxcqlf/MonoViT) | [bibtext](./citations/monovit.txt)
 - [LDM3D: Latent Diffusion Model for 3D](https://arxiv.org/abs/2305.10853), Stan et al., CVPRW 2023  | [huggingface](https://huggingface.co/Intel/ldm3d) | [bibtext](./citations/ldm3d.txt) 
-- [Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation](https://arxiv.org/abs/2312.02145), Ke et al., CVPR 2024 | [github](https://github.com/prs-eth/marigold) | [bibtext](./citations/marigold.txt) 
 </details>
 
 <details open>
@@ -79,6 +78,9 @@ A curated list of awesome robust depth estimation papers, inspired by [awesome-N
 - [Metric3Dv2: A Versatile Monocular Geometric Foundation Model for Zero-shot Metric Depth and Surface Normal Estimation](), Hu et al., arxiv 2024 | [github](https://github.com/YvanYin/Metric3D) | [bibtext](./citations/metric3dv2.txt)
 - [Zero-Shot Metric Depth with a Field-of-View Conditioned Diffusion Model](https://arxiv.org/abs/2312.13252), Saxena et al., arxiv 2023 | [bibtext](./citations/fvcdm.txt) 
 - [Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data](https://arxiv.org/abs/2401.10891), Yang et al., CVPR 2024 | [github](https://github.com/LiheYoung/Depth-Anything) | [bibtext](./citations/depthanything.txt)
+- [Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation](https://arxiv.org/abs/2312.02145), Ke et al., CVPR 2024 | [github](https://github.com/prs-eth/marigold) | [bibtext](./citations/marigold.txt) 
+- [DepthFM: Fast Monocular Depth Estimation with Flow Matching](https://arxiv.org/abs/2403.13788), Gui et al., arxiv 2024 | [github](https://github.com/CompVis/depth-fm) | [bibtext](./citations/depthFM.txt) 
+
 </details>
 
 <details open>
