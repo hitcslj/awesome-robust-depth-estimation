@@ -21,7 +21,7 @@ A curated list of awesome robust depth estimation papers, inspired by [awesome-N
 ## Papers
 
 <details open>
-<summary>darkness & adversial weather robust</summary>
+<summary>darkness & adverse weather robust</summary>
 
 - [Defeat-net: General monocular depth via simultaneous unsupervised representation learning](https://arxiv.org/abs/2003.13446), Spencer et al., CVPR 2020 | [github](https://github.com/jspenmar/DeFeat-Net) | [bibtext](./citations/DeFeatNet.txt)
 - [Unsupervised monocular depth estimation for night-time images using adversarial domain feature adaptation](https://arxiv.org/abs/2010.01402), Vankadari et al., ECCV 2020 | [bibtext](./citations/ADFA.txt)
