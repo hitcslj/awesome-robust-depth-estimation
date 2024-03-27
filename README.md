@@ -19,7 +19,7 @@ A curated list of awesome robust depth estimation papers, inspired by [awesome-N
 - TODO
 
 ## Papers
-
+![knowledge_map](assets/knowledge_map.png)
 <details open>
 <summary>darkness & adverse weather robust</summary>
 
