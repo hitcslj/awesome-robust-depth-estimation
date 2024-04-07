@@ -1,0 +1,6 @@
+@article{zheng2024physical,
+  title={Physical 3D Adversarial Attacks against Monocular Depth Estimation in Autonomous Driving},
+  author={Zheng, Junhao and Lin, Chenhao and Sun, Jiahao and Zhao, Zhengyu and Li, Qian and Shen, Chao},
+  journal={arXiv preprint arXiv:2403.17301},
+  year={2024}
+}
