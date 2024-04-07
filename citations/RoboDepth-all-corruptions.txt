@@ -1,0 +1,6 @@
+@inproceedings{kong2023robodepth,
+  title = {RoboDepth: Robust Out-of-Distribution Depth Estimation under Corruptions},
+  author = {Kong, Lingdong and Xie, Shaoyuan and Hu, Hanjiang and Ng, Lai Xing and Cottereau, Benoit R. and Ooi, Wei Tsang},
+  booktitle = {Advances in Neural Information Processing Systems},
+  year = {2023},
+}
