@@ -35,6 +35,8 @@ A curated list of awesome robust depth estimation papers, inspired by [awesome-N
 - [RoboDepth: Robust Out-of-Distribution Depth Estimation under Corruptions](https://arxiv.org/abs/2310.15171), Kong et al., NeurIPS 2023 | [github](https://github.com/ldkong1205/RoboDepth) | [bibtext](./citations/robodepth.txt) 
 - [Stealing Stable Diffusion Prior for Robust Monocular Depth Estimation](https://arxiv.org/abs/2403.05056), Mao et al., arxiv 2024 | [github](https://github.com/hitcslj/SSD) | [bibtext](./citations/ssd.txt) 
 - [Physical 3D Adversarial Attacks against Monocular Depth Estimation in Autonomous Driving](https://arxiv.org/abs/2403.17301), Zheng et al., CVPR 2024 | [github](https://github.com/gandolfczjh/3d2fool) | [bibtext](./citations/3d2fool.txt) 
+- [Digging into contrastive learning for robust depth estimation with diffusion models](https://arxiv.org/abs/2404.09831), Wang et al., arxiv 2024 | [bibtext](./citations/cldiffsusion.txt) 
+
 </details>
 
 <details open>

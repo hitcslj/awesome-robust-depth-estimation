@@ -1,0 +1,6 @@
+@article{wang2024digging,
+  title={Digging into contrastive learning for robust depth estimation with diffusion models},
+  author={Wang, Jiyuan and Lin, Chunyu and Nie, Lang and Liao, Kang and Shao, Shuwei and Zhao, Yao},
+  journal={arXiv preprint arXiv:2404.09831},
+  year={2024}
+}
