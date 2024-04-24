@@ -92,6 +92,7 @@ A curated list of awesome robust depth estimation papers, inspired by [awesome-N
 - [Learning to Recover 3D Scene Shape from a Single Image](https://arxiv.org/abs/2012.09365), Yin et al., CVPR 2021 | [github](https://github.com/aim-uofa/AdelaiDepth) | [bibtext](./citations/LeReS.txt)
 - [Adaptive Fusion of Single-View and Multi-View Depth for Autonomous Driving](https://arxiv.org/abs/2403.07535), Cheng et al., CVPR 2024 | [github](https://github.com/Junda24/AFNet) | [bibtext](./citations/AFNet.txt) 
 - [SM4Depth: Seamless Monocular Metric Depth Estimation across Multiple Cameras and Scenes by One Model](https://arxiv.org/abs/2403.08556), Liu et al., arxiv 2024 | [github](https://github.com/1hao-Liu/SM4Depth) | [bibtext](./citations/sm4depth.txt)
+- [UniDepth: Universal Monocular Metric Depth Estimation](https://arxiv.org/abs/2403.18913), Piccinelli et al., CVPR 2024 | [github](https://github.com/lpiccinelli-eth/unidepth) | [bibtext](./citations/UniDepth.txt)
 
 </details>
 
