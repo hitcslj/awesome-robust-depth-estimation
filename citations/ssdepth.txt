@@ -1,0 +1,6 @@
+@article{guo2023simple,
+  title={A simple baseline for supervised surround-view depth estimation},
+  author={Guo, Xianda and Yuan, Wenjie and Zhang, Yunpeng and Yang, Tian and Zhang, Chenming and Zhu, Zheng and Chen, Long},
+  journal={arXiv preprint arXiv:2303.07759},
+  year={2023}
+}
