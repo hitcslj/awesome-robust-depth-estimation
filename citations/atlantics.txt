@@ -1,0 +1,6 @@
+@article{zhang2023atlantis,
+  title={Atlantis: Enabling Underwater Depth Estimation with Stable Diffusion},
+  author={Zhang, Fan and You, Shaodi and Li, Yu and Fu, Ying},
+  journal={arXiv preprint arXiv:2312.12471},
+  year={2023}
+}
