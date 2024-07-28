@@ -37,6 +37,7 @@ A curated list of awesome robust depth estimation papers, inspired by [awesome-N
 - [Stealing Stable Diffusion Prior for Robust Monocular Depth Estimation](https://arxiv.org/abs/2403.05056), Mao et al., arxiv 2024 | [github](https://github.com/hitcslj/SSD) | [bibtext](./citations/ssd.txt) 
 - [Physical 3D Adversarial Attacks against Monocular Depth Estimation in Autonomous Driving](https://arxiv.org/abs/2403.17301), Zheng et al., CVPR 2024 | [github](https://github.com/gandolfczjh/3d2fool) | [bibtext](./citations/3d2fool.txt) 
 - [Digging into contrastive learning for robust depth estimation with diffusion models](https://arxiv.org/abs/2404.09831), Wang et al., arxiv 2024 | [bibtext](./citations/cldiffsusion.txt) 
+- [Diffusion Models for Monocular Depth Estimation: Overcoming Challenging Conditions](https://arxiv.org/abs/2407.16698), Tosi et al., ECCV 2024 | [github](https://github.com/fabiotosi92/Diffusion4RobustDepth) | [bibtext](./citations/diff4robust.txt) 
 
 </details>
 

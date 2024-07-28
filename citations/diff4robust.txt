@@ -1,0 +1,6 @@
+@inproceedings{tosi2024diffusion,
+  title={Diffusion Models for Monocular Depth Estimation: Overcoming Challenging Conditions},
+  author={Tosi, Fabio and Zama Ramirez, Pierluigi and Poggi, Matteo},
+  booktitle={European Conference on Computer Vision (ECCV)},
+  year={2024}
+}
