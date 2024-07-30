@@ -1,0 +1,7 @@
+@inproceedings{facil2019cam,
+  title={CAM-Convs: Camera-aware multi-scale convolutions for single-view depth},
+  author={Facil, Jose M and Ummenhofer, Benjamin and Zhou, Huizhong and Montesano, Luis and Brox, Thomas and Civera, Javier},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={11826--11835},
+  year={2019}
+}
