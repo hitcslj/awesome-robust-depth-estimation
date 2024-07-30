@@ -36,7 +36,7 @@ A curated list of awesome robust depth estimation papers, inspired by [awesome-N
 - [Atlantis: Enabling Underwater Depth Estimation with Stable Diffusion](https://arxiv.org/abs/2312.12471), Zhang et al., CVPR 2024 | [github](https://github.com/zkawfanx/Atlantis) | [bibtext](./citations/atlantics.txt) 
 - [Stealing Stable Diffusion Prior for Robust Monocular Depth Estimation](https://arxiv.org/abs/2403.05056), Mao et al., arxiv 2024 | [github](https://github.com/hitcslj/SSD) | [bibtext](./citations/ssd.txt) 
 - [Physical 3D Adversarial Attacks against Monocular Depth Estimation in Autonomous Driving](https://arxiv.org/abs/2403.17301), Zheng et al., CVPR 2024 | [github](https://github.com/gandolfczjh/3d2fool) | [bibtext](./citations/3d2fool.txt) 
-- [Digging into contrastive learning for robust depth estimation with diffusion models](https://arxiv.org/abs/2404.09831), Wang et al., arxiv 2024 | [bibtext](./citations/cldiffsusion.txt) 
+- [Digging into contrastive learning for robust depth estimation with diffusion models](https://arxiv.org/abs/2404.09831), Wang et al., arxiv 2024 | [bibtext](./citations/cl.txt) 
 - [Diffusion Models for Monocular Depth Estimation: Overcoming Challenging Conditions](https://arxiv.org/abs/2407.16698), Tosi et al., ECCV 2024 | [github](https://github.com/fabiotosi92/Diffusion4RobustDepth) | [bibtext](./citations/diff4robust.txt) 
 
 </details>
@@ -86,6 +86,8 @@ A curated list of awesome robust depth estimation papers, inspired by [awesome-N
 - [Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data](https://arxiv.org/abs/2401.10891), Yang et al., CVPR 2024 | [github](https://github.com/LiheYoung/Depth-Anything) | [bibtext](./citations/depthanything.txt)
 - [Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation](https://arxiv.org/abs/2312.02145), Ke et al., CVPR 2024 | [github](https://github.com/prs-eth/marigold) | [bibtext](./citations/marigold.txt) 
 - [DepthFM: Fast Monocular Depth Estimation with Flow Matching](https://arxiv.org/abs/2403.13788), Gui et al., arxiv 2024 | [github](https://github.com/CompVis/depth-fm) | [bibtext](./citations/depthFM.txt) 
+- [Depth Anything V2](https://arxiv.org/abs/2406.09414), Yang et al. arxiv 2024| [github](https://github.com/DepthAnything/Depth-Anything-V2) | [bibtext](./citations/depthanythingv2.txt)
+- [GeoWizard: Unleashing the Diffusion Priors for 3D Geometry Estimation from a Single Image](GeoWizard: Unleashing the Diffusion Priors for 3D Geometry Estimation from a Single Image), Fu et al., ECCV 2024 | [github](https://github.com/fuxiao0719/GeoWizard) | [bibtext](./citations/geowizard.txt)
 
 </details>
 

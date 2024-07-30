@@ -1,0 +1,6 @@
+@article{fu2024geowizard,
+  title={Geowizard: Unleashing the diffusion priors for 3d geometry estimation from a single image},
+  author={Fu, Xiao and Yin, Wei and Hu, Mu and Wang, Kaixuan and Ma, Yuexin and Tan, Ping and Shen, Shaojie and Lin, Dahua and Long, Xiaoxiao},
+  journal={arXiv preprint arXiv:2403.12013},
+  year={2024}
+}
